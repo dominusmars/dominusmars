@@ -14,7 +14,7 @@
 - 👯 I’m part of [RUSEC](https://github.com/rutgers-rusec), the cybersecurity club at Rutgers.
 - 🧠 Interests: **Security Research, Network Viz, OS Internals, Full-stack Dev**
 - 💬 Ask me about **Go, Python, Linux, Firewalls, or Event Streaming**
-- 📫 Reach me: **dominusmars@pm.me** or on [LinkedIn](https://linkedin.com/in/dominusmars)
+- 📫 Reach me: on [LinkedIn](https://linkedin.com/in/dominusmars)
 
 ---
 
@@ -79,7 +79,6 @@
   <a href="https://linkedin.com/in/dominusmars" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:dominusmars@pm.me" target="_blank">
-    <img src="https://img.shields.io/badge/email-%40pm.me-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
 </p>
+
+<p>Yes it was chat</p>
